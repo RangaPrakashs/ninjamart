@@ -1,6 +1,6 @@
 # playlist
 
-> a playlist for songs
+> a Ninja Applicaiton for..... No it's a Playlist ;)
 
 ## Build Setup
 
